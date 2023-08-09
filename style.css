@@ -24,4 +24,5 @@ body{
         color: green; 
     font-family: monospace; 
     font-weight: bold; 
+    border-radius: 0.4em;
        }
