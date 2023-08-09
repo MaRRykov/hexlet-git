@@ -21,10 +21,7 @@ body{
         font-size: 25px;
     }
     input{
-        width: 10em; 
-        height: 3em; 
         color: green; 
     font-family: monospace; 
-    font-size: 1.4em; 
     font-weight: bold; 
        }
