@@ -21,9 +21,8 @@ body{
         font-size: 25px;
     }
     input{
-        color: green; 
-    font-family: monospace; 
-    font-weight: bold; 
+        color: rgb(0, 0, 0); 
     border-radius: 0.4em;
-    background-color: #ff9700;
+    background-color: #e4e1de00;
+    box-shadow: #000000;
        }
