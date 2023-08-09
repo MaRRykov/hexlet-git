@@ -21,6 +21,9 @@ body{
         font-size: 25px;
     }
     input{
+        padding: 0.5em 1.5em;
+        border: 2px solid #000;
+        margin-right: 1rem;
         color: rgb(0, 0, 0); 
     border-color: #000000;
     background-color: #e4e1de00;
