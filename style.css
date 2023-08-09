@@ -22,7 +22,7 @@ body{
     }
     input{
         color: rgb(0, 0, 0); 
-    border-radius: 0.4em;
+    border-color: #000000;
     background-color: #e4e1de00;
     box-shadow: #000000;
        }
