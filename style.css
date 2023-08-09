@@ -9,9 +9,12 @@ body{
         color: blue;
         font-size: 25px;
     }
-    p{
+    p important {
         color: #1c5904;
         font-size: 20px; 
     }
-        
+    p {
+        color: #b60707;
+        font-size: 20px; 
+    }   
     
