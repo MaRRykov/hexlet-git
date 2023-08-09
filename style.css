@@ -3,5 +3,13 @@ body{
     }
     h1{
         color: #000134;
-        font-size: 20px;
+        font-size: 40px;
     }
+    h2{
+        color: blue;
+        font-size: 25px;
+    }
+    p[
+        color: #1c5904;
+        ffont-size: 20px;
+    ]
