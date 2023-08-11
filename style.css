@@ -24,6 +24,13 @@ body{
     background-color: #000325; 
     color: #fff; 
     }
+    .erste {
+        background-color: #fff;
+        border: #000134; 
+        padding: 2mm;
+        margin: 5mm;
+        outline-style: dotted;
+    }
   </style>
  </head>
  <body>
@@ -34,5 +41,3 @@ body{
   </p>
  </body>
 </html>
-
-       }
