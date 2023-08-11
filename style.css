@@ -25,11 +25,13 @@ body{
     color: #fff; 
     }
     .erste {
+        display: block;
         width: 50%;
         background: #B2D235; 
     padding: 40px; 
     outline: 2px solid #fff; 
     outline-offset: -20px; /
+    margin: auto; 
     }
   </style>
  </head>
