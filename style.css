@@ -25,11 +25,10 @@ body{
     color: #fff; 
     }
     .erste {
-        background-color: #fff;
-        border: #000134; 
-        padding: 2mm;
-        margin: 5mm;
-        outline-style: dotted;
+        background: #B2D235; 
+    padding: 40px; 
+    outline: 2px solid #fff; 
+    outline-offset: -20px; /
     }
   </style>
  </head>
